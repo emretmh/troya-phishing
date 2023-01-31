@@ -11,7 +11,7 @@ Instagram
 Facebook,Google,SnapChat,Twitter,Microsoft
 #### suljot_sjoka tarafında oluşturulan sayfalar @suljot_gjoka:
 PayPal,eBay,CryptoCurrency,Verizon,Drop Box,Adobe ID,Shopify,Messenger,TwitchMyspace,Badoo,VK,Yandex,devianART
-#### emretmh tarafından uygulamanın genel tasarımı işleyişi sağlanmıştır 
+####
 
 
 ## Yasal sorumluluk reddi:
